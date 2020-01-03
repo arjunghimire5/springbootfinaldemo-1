@@ -35,6 +35,7 @@
 # ----------------------------------------------------------------------------
 
 if [ -z "$MAVEN_SKIP_RC" ] ; then
+#this is chnge
 
   if [ -f /etc/mavenrc ] ; then
     . /etc/mavenrc
